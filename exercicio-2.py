@@ -1,4 +1,4 @@
-# Crie um jogo da velha NxN em que o usuário deve definir as dimensões do tabuleiro (sempre quadrado).
+# 2. Crie um jogo da velha NxN em que o usuário deve definir as dimensões do tabuleiro (sempre quadrado).
 
 # O metodo principal (jogar_jogo_da_velha) é responsavel por chamar os demais metodos e controlar o fluxo do jogo. 
 # Nele há um loop com condição de parada, que só é quebrado quando o jogo termina, seja por vitoria ou empate. O empata acontece quando o numero de jogadas é igual ao numero de casas do tabuleiro.

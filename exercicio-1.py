@@ -1,4 +1,4 @@
-# 1 Crie uma versão do jogo da velha 4x4. As regras são as mesmas da versão 3x3
+# 1. Crie uma versão do jogo da velha 4x4. As regras são as mesmas da versão 3x3
 
 # Foi divido o problema em metodos para facilitar a leitura e entendimento do codigo.  O metodo principal (jogar_jogo_da_velha) 
 # é responsavel por chamar os demais metodos e controlar o fluxo do jogo. Nele há um loop infinito que só é quebrado quando o jogo
