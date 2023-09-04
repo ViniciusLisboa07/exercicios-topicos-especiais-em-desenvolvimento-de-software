@@ -3,8 +3,8 @@
 
 ---
 
-Aluno :bowtie: : Vinicius Lisboa
-RGM :star: : 13197347
+Aluno :bowtie: : Vinicius Lisboa <br>
+RGM :star: : 13197347 <br>
 
 
 :cyclone:
